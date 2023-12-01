@@ -10,10 +10,30 @@ I'm Josh.
 - ⚡ Fun fact: I like to sleep, play [osu!](https://osu.ppy.sh) and [minecraft](https://minecraft.net).
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ferrerojosh&count_private=true&show_icons=true" />
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=ferrerojosh&show_icons=true&theme=codeSTACKr"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=ferrerojosh&show_icons=true&theme=default"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ferrerojosh&show_icons=true&theme=default" />
+  </picture>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferrerojosh" />
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ferrerojosh&layout=compact&langs_count=8&card_width=320&theme=codeSTACKr"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ferrerojosh&layout=compact&langs_count=8&card_width=320"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ferrerojosh&layout=compact&langs_count=8&card_width=320" />
+  </picture>
 </a>
 
 <!--
