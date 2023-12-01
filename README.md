@@ -16,10 +16,10 @@ I'm Josh.
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=ferrerojosh&show_icons=true&theme=default"
+      srcset="https://github-readme-stats.vercel.app/api?username=ferrerojosh&show_icons=true&theme=buefy"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ferrerojosh&show_icons=true&theme=default" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ferrerojosh&show_icons=true&theme=buefy" />
   </picture>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -29,10 +29,10 @@ I'm Josh.
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ferrerojosh&layout=compact&langs_count=8&card_width=320"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ferrerojosh&layout=compact&langs_count=8&card_width=320&theme=buefy"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ferrerojosh&layout=compact&langs_count=8&card_width=320" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ferrerojosh&layout=compact&langs_count=8&card_width=320&theme=buefy" />
   </picture>
 </a>
 
